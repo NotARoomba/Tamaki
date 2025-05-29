@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://notaroomba.dev"><img src="https://raw.githubusercontent.com/NotARoomba/Tamaki/master/images/logo.png" alt="Tamaki" width="200"></a>
+  <a href="https://notaroomba.dev"><img src="https://raw.githubusercontent.com/NotARoomba/Tamaki/main/images/logo.png" alt="Tamaki" width="200"></a>
   <br>
   Tamaki
   <br>
@@ -22,7 +22,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/NotARoomba/Tamaki/master/images/pcb.png)
+![screenshot](https://raw.githubusercontent.com/NotARoomba/Tamaki/main/images/pcb.png)
 
 ## Key Features
 
