@@ -25,9 +25,11 @@
   <a href="#license">License</a>
 </p>
 
+<!---
 ![schematic](https://raw.githubusercontent.com/NotARoomba/Tamaki/main/assets/schematic.png)
 ![pcb](https://raw.githubusercontent.com/NotARoomba/Tamaki/main/assets/pcb.png)
 ![build](https://raw.githubusercontent.com/NotARoomba/Tamaki/main/assets/windowed.png)
+--->
 
 ## Key Features
 
